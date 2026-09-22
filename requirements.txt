@@ -3,4 +3,5 @@ pandas
 numpy
 folium
 streamlit-folium
+pyserial
 # add any other libraries your flood model uses
