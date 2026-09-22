@@ -2,4 +2,5 @@ streamlit
 pandas
 numpy
 folium
+streamlit-folium
 # add any other libraries your flood model uses
